@@ -424,7 +424,7 @@ New Orders / Payments
 <td>DOMAIN</td>
 <td>2 Years (20 Euro Off)</td>
 <td>79.9</td>
-<td><img src="cc2.gif" width="40" border="0"></td>
+<td><img src="cc.gif" width="40" border="0"></td>
 <td><img src="pp.gif" width="40" border="0"></td>
 <td><a href="anonymous_hosting_linux.aspx">Account Balance</a></td>
 <td><a href="anonymous_hosting_linux.aspx">Cash Bankwire E-Gold</a></td>
@@ -539,7 +539,7 @@ No change request found.
                             
          
                                                  
-<!-- AddThis Bookmark Button BEGIN 
+<!-- AddThis Bookmark Button BEGIN -->
 <script type="text/javascript">
   addthis_url    = location.href;   
   addthis_title  = document.title;  
@@ -555,11 +555,11 @@ No change request found.
                                     <td valign="top">
                                        
                                         <a href="https://web.archive.org/web/20090122084650/http://businessprofile.geotrust.com/servlet/com.kx.was.servlets.CPUGBNclient?GT50023695">
-                                            <!--<img border="0" src="rapidssl_ssl_certificate.gif"/>--></a>
+                                            <img border="0" src="rapidssl_ssl_certificate.gif"/></a>
                                     </td>
                                 </tr>
                             </table>
-                            Copyright © 1996-2009 AnonymousSpeech.com. All Rights Reserved.<br/>
+                            Copyright © 1996-2008 AnonymousSpeech.com. All Rights Reserved.<br/>
                             Use of this website is governed by AnonymousSpeech.com Service Agreement and Acceptable
                             Use Policy<br/>
                             <br/>
